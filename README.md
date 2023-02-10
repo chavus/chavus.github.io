@@ -18,6 +18,6 @@ Most of the content is related to languages and tools above.
 If the index browsing is not enough to find what you are looking for, then you can use the github search to search for specific keyword or concept.
 1. If not there already, go to the [repository](https://github.com/chavus/chavus.github.io) where this notes are hosted in github. 
 2. From the search bar at the top, type the term you are looking for and select the option `In this repository`
-![Search in notes](assets\githubsearch.png)
-3. Review if there are any useful results.
+![Search in notes](assets/githubsearch.png)
+1. Review if there are any useful results.
 
