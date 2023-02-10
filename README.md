@@ -12,7 +12,9 @@ I'm currently working as Software Test Engineer, focusing mainly on building tes
 Most of the content is related to languages and tools above. 
 
 ## Notes Index
-- Pack a `java` test project into an executable `jar` file
+- [Pack a `java` test project into an executable `jar` file folder](assets/tests-in-jar)
+- [Pack a `java` test project into an executable `jar` file readme](assets/tests-in-jar/README.md)
+-  [Pack a `java` test project into an executable `jar` file test in jar readme](assets/tests-in-jar/test-in-jar-readme.md)
 
 ## Search for specific content
 If the index browsing is not enough to find what you are looking for, then you can use the github search to search for specific keyword or concept.
